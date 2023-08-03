@@ -1,5 +1,7 @@
 # cruv_task_1
 
+![screenshot]([http://url/to/img.png](https://github.com/mohit-cruv/cruv_task/blob/main/screenshots/Screenshot_2023-08-03-18-54-29-14_c7ca9a6b82b5cc954d4421699640dd04.jpg))
+
 A new Flutter project.
 
 ## Getting Started
